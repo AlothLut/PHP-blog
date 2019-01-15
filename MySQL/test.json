@@ -1,0 +1,25 @@
+[
+{"type":"header","version":"4.8.4","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"test"},
+{"type":"table","name":"articles","database":"test","data":
+[
+{"id":"1","title":"PHP","intro":"PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.\nPHP is a widely-used, free, and efficient alternative to competitors such as Microsoft&#39;s ASP.","textItem":"PHP is a server scripting language, and a powerful tool for making dynamic and interactive Web pages.\nPHP is a widely-used, free, and efficient alternative to competitors such as Microsoft&#39;s ASP.","date":"1547507258","author":"Test"},
+{"id":"2","title":"AJAX","intro":"Asynchronous Javascript and XML â€” Ð°ÑÐ¸Ð½Ñ…Ñ€Ð¾Ð½Ð½Ñ‹Ð¹ JavaScript Ð¸ XML","textItem":"AJAX - Ð¿Ð¾Ð´Ñ…Ð¾Ð´ Ðº Ð¿Ð¾ÑÑ‚Ñ€Ð¾ÐµÐ½Ð¸ÑŽ Ð¸Ð½Ñ‚ÐµÑ€Ð°ÐºÑ‚Ð¸Ð²Ð½Ñ‹Ñ… Ð¿Ð¾Ð»ÑŒÐ·Ð¾Ð²Ð°Ñ‚ÐµÐ»ÑŒÑÐºÐ¸Ñ… Ð¸Ð½Ñ‚ÐµÑ€Ñ„ÐµÐ¹ÑÐ¾Ð² Ð²ÐµÐ±-Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ð¹, Ð·Ð°ÐºÐ»ÑŽÑ‡Ð°ÑŽÑ‰Ð¸Ð¹ÑÑ Ð² Â«Ñ„Ð¾Ð½Ð¾Ð²Ð¾Ð¼Â» Ð¾Ð±Ð¼ÐµÐ½Ðµ Ð´Ð°Ð½Ð½Ñ‹Ð¼Ð¸ Ð±Ñ€Ð°ÑƒÐ·ÐµÑ€Ð° Ñ Ð²ÐµÐ±-ÑÐµÑ€Ð²ÐµÑ€Ð¾Ð¼. Ð’ Ñ€ÐµÐ·ÑƒÐ»ÑŒÑ‚Ð°Ñ‚Ðµ, Ð¿Ñ€Ð¸ Ð¾Ð±Ð½Ð¾Ð²Ð»ÐµÐ½Ð¸Ð¸ Ð´Ð°Ð½Ð½Ñ‹Ñ… Ð²ÐµÐ±-ÑÑ‚Ñ€Ð°Ð½Ð¸Ñ†Ð° Ð½Ðµ Ð¿ÐµÑ€ÐµÐ·Ð°Ð³Ñ€ÑƒÐ¶Ð°ÐµÑ‚ÑÑ Ð¿Ð¾Ð»Ð½Ð¾ÑÑ‚ÑŒÑŽ, Ð¸ Ð²ÐµÐ±-Ð¿Ñ€Ð¸Ð»Ð¾Ð¶ÐµÐ½Ð¸Ñ ÑÑ‚Ð°Ð½Ð¾Ð²ÑÑ‚ÑÑ Ð±Ñ‹ÑÑ‚Ñ€ÐµÐµ Ð¸ ÑƒÐ´Ð¾Ð±Ð½ÐµÐµ. ÐŸÐ¾-Ñ€ÑƒÑÑÐºÐ¸ Ð¸Ð½Ð¾Ð³Ð´Ð° Ð¿Ñ€Ð¾Ð¸Ð·Ð½Ð¾ÑÐ¸Ñ‚ÑÑ Ð¿Ð¾ ÑÑƒÑ‰ÐµÑÑ‚Ð²ÑƒÑŽÑ‰ÐµÐ¹ Ð°Ð½Ð°Ð»Ð¾Ð³Ð¸Ð¸ Ñƒ Ð¸Ð¼ÐµÐ½Ð¸ Ajax â€” ÐÑÐºÑ, Ð½Ð¾ Ñƒ Ð°Ð±Ð±Ñ€ÐµÐ²Ð¸Ð°Ñ‚ÑƒÑ€Ñ‹ AJAX Ð½ÐµÑ‚ ÑƒÑÑ‚Ð¾ÑÐ²ÑˆÐµÐ³Ð¾ÑÑ Ð²Ð°Ñ€Ð¸Ð°Ð½Ñ‚Ð° Ð½Ð° ÐºÐ¸Ñ€Ð¸Ð»Ð»Ð¸Ñ†Ðµ.","date":"1547508905","author":"Test"},
+{"id":"3","title":"SQL","intro":"SQL is a standard language for accessing and manipulating databases.","textItem":"SQL is a standard language for storing, manipulating and retrieving data in databases.\n\nOur SQL tutorial will teach you how to use SQL in: MySQL, SQL Server, MS Access, Oracle, Sybase, Informix, Postgres, and other database systems.","date":"1547509077","author":"Test"},
+{"id":"4","title":"Unix time","intro":"also known as POSIX time or UNIX Epoch time","textItem":"is a system for describing a point in time. It is the number of seconds that have elapsed since 00:00:00 Thursday, 1 January 1970, Coordinated Universal Time (UTC), minus leap seconds. Every day is treated as if it contains exactly 86400 seconds, so leap seconds are to be subtracted since the epoch.[3] It is used widely in Unix-like and many other operating systems and file formats. However, Unix time is not a true representation of UTC, as a leap second in UTC shares the same Unix time as the second which came before it. Unix time may be checked on most Unix systems by typing date +%s on the command line.","date":"1547509463","author":"Test"}
+]
+}
+,{"type":"table","name":"users","database":"test","data":
+[
+{"id":"9","username":"ÐÐ»ÐµÐºÑÐµÐ¹","login":"ALabc","email":"asd@gmail.com","pass":"4ca9eadfa778e88fd9bce965a74e7471"},
+{"id":"10","username":"Aleksey","login":"ALabcad","email":"aasd@gmail.com","pass":"41c3243e022a02fe01a5823d34bb6832"},
+{"id":"18","username":"Adam","login":"fgdgdg","email":"dfgdfgfd@gmail.com","pass":"25c09b7b2b76676cbeaa28f942bca7a1"},
+{"id":"17","username":"Petr","login":"asdsad","email":"sdsd@gmail.com","pass":"14b860ab418a229ef3ee110959583f1a"},
+{"id":"19","username":"Adam2","login":"fgdgdg2","email":"dfgdfgfd2@gmail.com","pass":"63160300894e66417a5f10ac4b37592a"},
+{"id":"21","username":"Aleksey","login":"Test","email":"test@gmail.com","pass":"9e47a3c323c10d7d8fb27a0ea9f1a476"},
+{"id":"22","username":"Nik","login":"Nik","email":"nik@gmail.com","pass":"2544e7e5f2200c6b697f42ff67db50a0"},
+{"id":"23","username":"dasdasd","login":"asdasd","email":"aasd@gmail.com","pass":"b0fadbf481f99e6ac8c9a7714ff4be7c"},
+{"id":"25","username":"Joshua","login":"Joshua","email":"josh@gmail.com","pass":"159c29802f634c6d970e440b0da7b8b3"}
+]
+}
+]
